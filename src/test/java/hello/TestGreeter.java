@@ -6,7 +6,6 @@ import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 
 // Change the comment again to kick off a build
-// This change is made originally on the ted2branch
 
 public class TestGreeter {
 
